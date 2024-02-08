@@ -24,3 +24,4 @@ if __name__ == '__main__':
     print(check_character('happy birthday!', 14))
 
     #testing
+    #adding comment
